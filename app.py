@@ -4,7 +4,7 @@ from flask import Flask, redirect, render_template_string, request, url_for
 
 app = Flask(__name__)
 
-TELEGRAM_TOKEN = "SEU_TOKEN_AQUI"
+TELEGRAM_TOKEN =  "SEU_TOKEN_AQUI"
 CHAT_ID = "SEU_CHAT_ID_AQUI"
 
 def init_db():

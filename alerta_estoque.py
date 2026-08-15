@@ -5,8 +5,8 @@ import schedule
 # ==========================================
 # CONFIGURAÇÕES DE CREDENCIAIS (Preencha aqui)
 # ==========================================
-TELEGRAM_TOKEN = "8707402340:AAH6jZk5VQNFtU32bDijRv31wolud4Qpr80"  # Cole o Token do BotFather
-CHAT_ID = "6473770102"  # Cole o ID do userinfobot
+TELEGRAM_TOKEN =  "SEU_TOKEN_AQUI"  # Cole o Token do BotFather
+CHAT_ID = "SEU_CHAT_ID_AQUI"  # Cole o ID do userinfobot
 
 # Banco de dados/lista simulada de estoque
 estoque = {
